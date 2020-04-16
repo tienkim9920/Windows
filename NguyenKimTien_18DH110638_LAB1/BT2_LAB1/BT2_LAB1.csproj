@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1B3D48C9-AD2F-46B8-8F94-12E43EAF969B}</ProjectGuid>
+    <ProjectGuid>{52A65740-8CD2-42A0-8627-B7A7FC10E8D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BT2_LAB2</RootNamespace>
-    <AssemblyName>BT2_LAB2</AssemblyName>
+    <RootNamespace>BT2_LAB1</RootNamespace>
+    <AssemblyName>BT2_LAB1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
