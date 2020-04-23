@@ -1,0 +1,7 @@
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\bin\Debug\BT2_LAB3.exe.config
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\bin\Debug\BT2_LAB3.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\bin\Debug\BT2_LAB3.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\obj\Debug\BT2_LAB3.csprojAssemblyReference.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\obj\Debug\BT2_LAB3.csproj.CoreCompileInputs.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\obj\Debug\BT2_LAB3.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB3\BT2_LAB3\obj\Debug\BT2_LAB3.pdb
