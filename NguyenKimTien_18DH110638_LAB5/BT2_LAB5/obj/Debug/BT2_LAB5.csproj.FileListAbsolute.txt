@@ -1,0 +1,10 @@
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\bin\Debug\BT2_LAB5.exe.config
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\bin\Debug\BT2_LAB5.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\bin\Debug\BT2_LAB5.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.csprojAssemblyReference.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.Form1.resources
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.Properties.Resources.resources
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.csproj.GenerateResource.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.csproj.CoreCompileInputs.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB5\BT2_LAB5\obj\Debug\BT2_LAB5.pdb
