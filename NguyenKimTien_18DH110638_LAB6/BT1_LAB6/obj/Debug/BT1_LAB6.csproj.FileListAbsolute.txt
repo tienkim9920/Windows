@@ -1,0 +1,6 @@
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB6\BT1_LAB6\bin\Debug\BT1_LAB6.exe.config
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB6\BT1_LAB6\bin\Debug\BT1_LAB6.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB6\BT1_LAB6\bin\Debug\BT1_LAB6.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB6\BT1_LAB6\obj\Debug\BT1_LAB6.csproj.CoreCompileInputs.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB6\BT1_LAB6\obj\Debug\BT1_LAB6.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB6\BT1_LAB6\obj\Debug\BT1_LAB6.pdb
