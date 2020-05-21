@@ -66,21 +66,22 @@ namespace BT1_LAB7
             reader.Close();
         }
 
-        public void SuaSanPham(string MSHH)
+        public void SuaSanPham(string MSHH, string Tenhang, int Gia, bool TinhTrang)
         {
             connection = new SqlConnection(connectionString);
-            string queryString = "UPDATE ThucUong SET TenHang = @TenHang, Gia= @Gia WHERE MSHH=@MSHH";
+            string queryString = "UPDATE ThucUong SET TenHang = @TenHang, Gia = @Gia, TinhTrang = @TinhTrang WHERE MSHH=@MSHH";
 
             string mshh = MSHH;
-            Console.Write("Nhap Ten Hang Hoa Can Sua: ");
-            string tenHang = Console.ReadLine();
-            Console.Write("Nhap Gia Can Sua: ");
-            string gia = Console.ReadLine();
+            string tenSanPham = Tenhang;
+            int gia = Gia;
+            bool tinhTrang = TinhTrang;
+
 
             SqlCommand command = new SqlCommand(queryString, connection);
             command.Parameters.AddWithValue("@MSHH", mshh);
-            command.Parameters.AddWithValue("@TenHang", tenHang);
+            command.Parameters.AddWithValue("@TenHang", tenSanPham);
             command.Parameters.AddWithValue("@Gia", gia);
+            command.Parameters.AddWithValue("@TinhTrang", tinhTrang);
 
             connection.Open();
             SqlDataReader reader = command.ExecuteReader();

@@ -31,34 +31,17 @@ namespace BT1_LAB7
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             string mshh = txtMSHH.Text;
             string tenSanPham = txtTenSanPham.Text;
             int gia = int.Parse(txtGia.Text);
             bool tinhTrang = radioConHang.Checked ? true : false;
 
-            connection = new SqlConnection(connectionString);
-            string queryString = "UPDATE ThucUong SET TenHang = @TenHang, Gia = @Gia, TinhTrang = @TinhTrang WHERE MSHH=@MSHH";
-
-            SqlCommand command = new SqlCommand(queryString, connection);
-            command.Parameters.AddWithValue("@MSHH", mshh);
-            command.Parameters.AddWithValue("@TenHang", tenSanPham);
-            command.Parameters.AddWithValue("@Gia", gia);
-            command.Parameters.AddWithValue("@TinhTrang", tinhTrang);
-
-            connection.Open();
-            SqlDataReader reader = command.ExecuteReader();
-
-            if (reader.Read() == false)
-            {
-                MessageBox.Show("Bạn Đã Chỉnh Sửa Thành Công", "Thông Báo!");
-            }
-            else
-            {
-                MessageBox.Show("Bạn Đã Nhập Sai MSHH", "Thông Báo!", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                txtMSHH.Focus();
-                Clear();
-            }
-            reader.Close();
+            DataProvider data = new DataProvider();
+            data.SuaSanPham(mshh, tenSanPham, gia, tinhTrang);
+            MessageBox.Show("Bạn Đã Nhập Sai MSHH", "Thông Báo!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            txtMSHH.Focus();
+            Clear();
         }
 
         public void Clear()

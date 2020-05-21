@@ -42,13 +42,11 @@ namespace BT1_LAB4
                     Console.Write("Nhap Luong San Pham: ");
                     int soLuongSanPham = int.Parse(Console.ReadLine());
 
-                    (nhanVien as NhanVienSanXuat).LuongCoBan = luongCoBanSX;
                     (nhanVien as NhanVienSanXuat).SoLuongSanPham = soLuongSanPham;
                     break;
                 default:
                     Console.WriteLine("Vui Long Nhap (1) va (2)");
                     goto NhapLai;
-                    break;
             }
 
             int luong = nhanVien.TinhLuong();

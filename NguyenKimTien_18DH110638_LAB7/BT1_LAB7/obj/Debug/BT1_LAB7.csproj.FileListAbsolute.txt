@@ -31,3 +31,16 @@ C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.
 D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.pdb
 D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormDelete.resources
 D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormEdit.resources
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe.config
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.pdb
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csprojAssemblyReference.cache
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Form1.resources
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormDelete.resources
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormEdit.resources
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormUpdate.resources
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Properties.Resources.resources
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.GenerateResource.cache
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.CoreCompileInputs.cache
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.exe
+E:\CodeStoreC#\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.pdb
